@@ -8,8 +8,8 @@ EJERCICIO 1
   ![1](https://user-images.githubusercontent.com/101083474/171727112-15362b30-cf0f-4fa8-8cf1-e5da5aacef32.jpeg)
   
   
-  ** Buscar la linea linux y reemplazar la sentecnia "rhgb quiet" por "rd break"
-  ** Presionar Ctrl + x 
+  Buscar la linea linux y reemplazar la sentecnia "rhgb quiet" por "rd break"
+  Presionar Ctrl + x 
   
   ![2](https://user-images.githubusercontent.com/101083474/171727302-390b8183-5363-4f91-b32e-de31c4943e21.jpeg)
   
